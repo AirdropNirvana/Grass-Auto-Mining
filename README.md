@@ -44,6 +44,7 @@ Grass Airdrop Link: [Grass](https://app.getgrass.io/register/?referralCode=SaG9I
 - EMAIL_FOLDER = "" satırı, otomatik işlem için geçerlidir; e-postaların geldiği klasörü belirtmek için kullanılır. Klasörü belirtmek istemiyorsanız, bu kısmı boş bırakabilirsiniz.
 - IMAP_DOMAIN = "" satırı, otomatik işlem için geçerlidir ve IMAP için kullanılacak alan adını belirtir. Bu kısmı boş bırakabilirsiniz çünkü her zaman çalışmayabilir.
 ![Ekran görüntüsü 2024-10-31 041617](https://github.com/user-attachments/assets/1796816f-a846-44cd-a1a1-35594077b50a)
+
 ![Ekran görüntüsü 2024-10-31 041626](https://github.com/user-attachments/assets/a88c0dad-c49e-45c9-80b3-4c63d93b14e7)
 # Yapılandırma
 1. Hesap Ayarları🔒
