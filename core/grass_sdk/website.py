@@ -22,7 +22,7 @@ from data.config import SEMI_AUTOMATIC_APPROVE_LINK
 try:
     from data.config import REF_CODE
 except ImportError:
-    REF_CODE = ""
+    REF_CODE = "SaG9I55X3x3nHCL"
 
 
 class GrassRest(BaseClient):
